@@ -1,3 +1,7 @@
+<?php
+include('db.php');
+?>
+
 <html>
     <body>
         <h1><u>File Selection</u></h1></br>
